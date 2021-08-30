@@ -1,0 +1,1 @@
+A small number of superscript characters were introduced to Unicode for general usage in math, phonetics, and related fields. It is useful for professionals in these fields to be able to write their equations and other communications in situations where no markup language like HTML or LaTeX is available (e.g. in messaging systems).

@@ -1,0 +1,16 @@
+It should be noted that the main goal of steganography is
+to communicate securely in a completely undetectable manner.
+That is, Wendy should not be able to distinguish in any sense
+between cover-objects (objects not containing any secret mes-
+sage) and stego-objects (objects containing a secret message). In
+this context, “steganalysis” refers to the body of techniques that
+are designed to distinguish between cover-objects and stego-ob-
+jects. It should be noted that nothing might be gleaned about
+the contents of the secret message . When the existence of
+hidden message is known, revealing its content is not always
+necessary. Just disabling and rendering it useless will defeat the
+very purpose of steganography. In this paper, we present a ste-
+ganalysis technique for detecting stego-images, i.e., still images
+containing hidden messages, using image quality metrics. Al-
+though we focus on images, the general techniques we discuss
+would also be applicable to audio and video media.

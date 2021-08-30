@@ -1,0 +1,8 @@
+STEGANOGRAPHY refers to the science of “invisible”
+communication. Unlike cryptography, where the goal is to
+secure communications from an eavesdropper, steganographic
+techniques strive to hide the very presence of the message itself
+from an observer. Although steganography is an ancient sub-
+ject, the modern formulation of it is often given in terms of the
+prisoner’s problem [1] where Alice and Bob are two inmates
+who wish to communicate in order to hatch an escape plan.
